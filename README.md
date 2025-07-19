@@ -39,7 +39,7 @@ Botu kendi sunucunuzda veya yerel makinenizde çalıştırmak için aşağıdaki
 
 1.  **Depoyu Klonlayın**:
     ```bash
-    git clone [https://github.com/KULLANICI_ADIN/youtube_downloader_bot.git](https://github.com/KULLANICI_ADIN/youtube_downloader_bot.git)
+    git clone [git clone https://github.com/kilic142100/youtube_downloader_bot.git](git clone https://github.com/kilic142100/youtube_downloader_bot.git)
     cd youtube_downloader_bot
     ```
 
