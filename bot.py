@@ -13,7 +13,7 @@ import json
 # --- AYARLAR ---
 # Lütfen kendi Telegram Bot Token'ınızı buraya yapıştırın.
 # Burayı kendi bot token'ınızla değiştirmeyi unutmayın!
-TELEGRAM_BOT_TOKEN = "7809806761:AAE_PIqcw4usIo2gJ8xD-gwdN5S3CPkfph8"
+TELEGRAM_BOT_TOKEN = "BOT_TOKEN_BURAYA_YAZ"
 
 # Loglama ayarları
 logging.basicConfig(
