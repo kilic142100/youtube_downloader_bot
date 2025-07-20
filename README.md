@@ -99,5 +99,5 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICEN
 
 ## İletişim ✉️
 
-* **Telegram**: [@TelegramKullanıcıAdın](https://t.me/TelegramKullanıcıAdın) (örnek)
-* **E-posta**: [eposta@example.com](mailto:eposta@example.com) (örnek)
+* **Telegram**: [@Noktaisimlihesap](https://t.me/TelegramKullanıcıAdın) (örnek)
+* **E-posta**: [1musa12@protonmail.com](mailto:eposta@example.com) (örnek)
