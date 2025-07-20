@@ -59,7 +59,7 @@ Botu kendi sunucunuzda veya yerel makinenizde çalıştırmak için aşağıdaki
 4.  **Bot Token'ınızı Ayarlayın**:
     Botunuzu çalıştırmadan önce, Telegram'dan aldığınız bot token'ınızı kod içerisine yapıştırmanız gerekmektedir. `bot.py` dosyasını açın ve `TELEGRAM_BOT_TOKEN` değişkenini kendi token'ınızla değiştirin:
     ```python
-    TELEGRAM_BOT_TOKEN = "7809806761:AAE_PIqcw4usIo2gJ8xD-gwdN5S3CPkfph8" # Kendi token'ınızla değiştirin!
+    TELEGRAM_BOT_TOKEN = "TELEGRAM_BOT_TOKEN" # Kendi token'ınızla değiştirin!
     ```
     *İpucu: Hassas bilgileri (API anahtarları gibi) doğrudan koda yazmak yerine, ortam değişkenleri (environment variables) kullanarak yönetmek daha güvenlidir. Gelecekte projenizi büyütürseniz bunu düşünebilirsiniz.*
 
